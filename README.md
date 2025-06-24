@@ -1,9 +1,23 @@
-# ChessMaster
+
 # Chess Master 🏆
 
 A professional-grade chess game built with React, TypeScript, and Tailwind CSS. Experience chess like never before with stunning visuals, smooth animations, and comprehensive gameplay features.
 
-![Chess Master](https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=800&h=400&fit=crop&crop=center)
+https://starlit-dodol-105e69.netlify.app/
+
+
+![image](https://github.com/user-attachments/assets/97321da5-47f4-42ee-ba95-5d434868d5b1)
+![image](https://github.com/user-attachments/assets/b0c312b8-9bdc-4524-b39e-1b0525858f9f)
+![image](https://github.com/user-attachments/assets/7c409a85-616a-4aa6-852a-d22ad298ed20)
+
+
+![image](https://github.com/user-attachments/assets/42dd1127-1d73-4496-a149-da8956c9651f)
+![image](https://github.com/user-attachments/assets/b992db1c-5caf-49d2-830f-02095c6012fb)
+
+
+
+
+
 
 ## ✨ Features
 
@@ -52,40 +66,6 @@ A professional-grade chess game built with React, TypeScript, and Tailwind CSS. 
 - **Lucide React** - Beautiful, customizable icons
 - **Web Audio API** - High-quality audio feedback
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (version 16 or higher)
-- npm or yarn package manager
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/chess-master.git
-   cd chess-master
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5173` to start playing!
-
-### Building for Production
-
-```bash
-npm run build
-```
-
-The built files will be in the `dist` directory, ready for deployment.
 
 ## 🎯 How to Play
 
@@ -171,4 +151,3 @@ If you find any bugs or have feature requests, please open an issue on GitHub wi
 
 **Enjoy playing Chess Master!** ♟️
 
-*Built with ❤️ using React, TypeScript, and Tailwind CSS*
